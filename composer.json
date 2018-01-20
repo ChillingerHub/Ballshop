@@ -1,0 +1,20 @@
+{
+    "name": "stefan/ballshop",
+    "description": "Kauf dir noch heute deinen Lieblingsball!",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Stefan Hillinger",
+            "email": "stefan.hillinger@htl.rennweg.at"
+        }
+    ],
+    "repositories": {
+        "0": {
+            "type": "vcs",
+            "url": "https://github.com/ChillingerHub/Ball_WebTPr"
+        }
+    },
+    "require": {
+        "stefan/ball": "dev-master"
+    }
+}

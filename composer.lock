@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "96b38327b8a3ca9327628426826536cb",
+    "packages": [
+        {
+            "name": "stefan/ball",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ChillingerHub/Ball_WebTPr.git",
+                "reference": "04611307184d4431597324e24be515a8698c7a7e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ChillingerHub/Ball_WebTPr/zipball/04611307184d4431597324e24be515a8698c7a7e",
+                "reference": "04611307184d4431597324e24be515a8698c7a7e",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "stefan\\ball\\": "src/"
+                }
+            },
+            "license": [
+                "GPL"
+            ],
+            "authors": [
+                {
+                    "name": "Stefan Hillinger",
+                    "email": "stefan.hillinger@htl.rennweg.at"
+                }
+            ],
+            "description": "System mit dem man verschiedenste Arten von Bällen kaufen kann\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[aellen kaufen kann.",
+            "support": {
+                "source": "https://github.com/ChillingerHub/Ball_WebTPr/tree/master",
+                "issues": "https://github.com/ChillingerHub/Ball_WebTPr/issues"
+            },
+            "time": "2018-01-20T10:43:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "stefan/ball": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
