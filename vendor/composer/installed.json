@@ -1,0 +1,40 @@
+[
+    {
+        "name": "stefan/ball",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ChillingerHub/Ball_WebTPr.git",
+            "reference": "04611307184d4431597324e24be515a8698c7a7e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ChillingerHub/Ball_WebTPr/zipball/04611307184d4431597324e24be515a8698c7a7e",
+            "reference": "04611307184d4431597324e24be515a8698c7a7e",
+            "shasum": ""
+        },
+        "time": "2018-01-20T10:43:03+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "stefan\\ball\\": "src/"
+            }
+        },
+        "license": [
+            "GPL"
+        ],
+        "authors": [
+            {
+                "name": "Stefan Hillinger",
+                "email": "stefan.hillinger@htl.rennweg.at"
+            }
+        ],
+        "description": "System mit dem man verschiedenste Arten von Bällen kaufen kann\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[aellen kaufen kann.",
+        "support": {
+            "source": "https://github.com/ChillingerHub/Ball_WebTPr/tree/master",
+            "issues": "https://github.com/ChillingerHub/Ball_WebTPr/issues"
+        }
+    }
+]
