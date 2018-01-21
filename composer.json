@@ -11,10 +11,12 @@
     "repositories": {
         "0": {
             "type": "vcs",
+            "version": "1.0",
             "url": "https://github.com/ChillingerHub/Ball_WebTPr"
         }
     },
     "require": {
-        "stefan/ball": "dev-master"
+        "stefan/ball": "dev-master",
+        "typo3fluid/fluid": "^2.4"
     }
 }

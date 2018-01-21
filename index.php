@@ -13,10 +13,11 @@ use stefan\{
 };
 
 $ball = new golfball("Wilshon", 3, "Weed");
+$ball2 = new golfball("Wilshon", 3, "Weeds");
 
 echo $ball;
 
-$ballArray = [$ball];
+$ballArray = [$ball, $ball2];
 
 $list = new BallListing($ballArray);
 

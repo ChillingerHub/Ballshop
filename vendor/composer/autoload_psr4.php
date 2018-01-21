@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'stefan\\ball\\' => array($vendorDir . '/stefan/ball/src'),
+    'TYPO3Fluid\\Fluid\\' => array($vendorDir . '/typo3fluid/fluid/src'),
 );

@@ -11,12 +11,20 @@ class ComposerStaticInit46d8ba809d09c4797aaabd2d2da43a04
         array (
             'stefan\\ball\\' => 12,
         ),
+        'T' => 
+        array (
+            'TYPO3Fluid\\Fluid\\' => 17,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'stefan\\ball\\' => 
         array (
             0 => __DIR__ . '/..' . '/stefan/ball/src',
+        ),
+        'TYPO3Fluid\\Fluid\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/typo3fluid/fluid/src',
         ),
     );
 
