@@ -17,6 +17,7 @@
     },
     "require": {
         "stefan/ball": "dev-master",
-        "typo3fluid/fluid": "^2.4"
+        "typo3fluid/fluid": "^2.4",
+        "twbs/bootstrap": "^4.0"
     }
 }
